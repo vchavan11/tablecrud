@@ -1,0 +1,16 @@
+[
+    {
+        "ConfigurationId": 1,
+        "SelectedDeviceType": "Android",
+        "IPAddress": "9.9.9.9",
+        "PortNumber": "8080",
+        "FolderPath": "path/file"
+    },
+    {
+        "ConfigurationId": 2,
+        "SelectedDeviceType": "Apple",
+        "IPAddress": "8.8.8.8",
+        "PortNumber": "3030",
+        "FolderPath": "path/file2"
+    }
+]
